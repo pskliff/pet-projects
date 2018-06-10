@@ -4,6 +4,11 @@ Repository contains my small pet projects
   
 ## self-made-LinearRegression  
 Self-made LinearRegression(Error functional = MSE) that can find analytical solution for the given sample or solve the optimization problem with Stochastic Gradient Descent  
+
+
+
+## self-made-Clustering  
+Self-made KMeans and KMedians algorithms for clustering.  
   
   
   
